@@ -35,4 +35,4 @@ of course this is only the beginning and the road is long ahead of us.
 ## Team
 Shiaa Community in The World 
 ## Legal Disclaimer
-Add legal notes.
+The Only Lisence ( www.shiaa.online ) ( Telegram: @Shiaacom )
