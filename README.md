@@ -36,3 +36,18 @@ of course this is only the beginning and the road is long ahead of us.
 Shiaa Community in The World 
 ## Legal Disclaimer
 The Only Lisence ( www.shiaa.online ) ( Telegram: @Shiaacom )
+
+YaHusseinCoin/
+   ├── README.md
+   ├── LICENSE
+   ├── .gitignore
+   ├── src/
+   │   ├── blockchain/
+   │   ├── wallet/
+   │   ├── consensus/
+   │   ├── network/
+   │   └── main.js
+   ├── tests/
+   ├── docs/
+   ├── scripts/
+   └── CONTRIBUTING.md
